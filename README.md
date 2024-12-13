@@ -15,7 +15,7 @@
 
 Po dopravní nehodě se počítá každá vteřina. Zpožděná reakční doba může znamenat rozdíl mezi životem a smrtí, zatímco nepřesné informace o závažnosti nehody mohou vést k nesprávnému přidělování zdrojů, což vytváří další neefektivitu záchranných služeb. 
 
-Tento projekt si klade za cíl tento proces změnit pomocí **Systému detekce a klasifikace závažnosti dopravních nehod**. Při zjištění nehody systém analyzuje její závažnost a určuje, jakou zachrannou složku je potřeba informovat - ať už jde o záchranáře, hasiče nebo orgány činné v trestním řízení. Tento přístup výrazně zkracuje dobu odezvy a zajišťuje, že správné zdroje jsou bez prodlení nasazeny na správné místo.
+Tento projekt si klade za cíl tento proces změnit pomocí **Systému detekce a klasifikace závažnosti dopravních nehod**. Při zjištění nehody systém analyzuje její závažnost a určuje, jakou složku zachranného systému je potřeba informovat - ať už jde o záchranáře, hasiče nebo orgány činné v trestním řízení. Tento přístup výrazně zkracuje dobu odezvy a zajišťuje, že správné zdroje jsou bez prodlení nasazeny na správné místo.
 
 **Proč je to důležité?**
 - **Rychlejší reakce na mimořádné události**: Automatická detekce a klasifikace závažnosti znamená, že pomoc dorazí dříve, což zachrání životy a minimalizuje zranění.
