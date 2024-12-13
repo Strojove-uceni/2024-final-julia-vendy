@@ -2,7 +2,6 @@
 
 ## Table of Contents
   - [Motivace](#motivace)
-  - [Struktura projektu](#struktura-projektu)
   - [Demo Aplikace](#demo-aplikace)
     - [Funkce Demo Aplikace](#funkce-demo-aplikace)
     - [Instalace](#instalace)
@@ -22,12 +21,6 @@ Tento projekt si klade za cíl tento proces změnit pomocí **Systému detekce a
 - **Rychlejší reakce na mimořádné události**: Automatická detekce a klasifikace závažnosti znamená, že pomoc dorazí dříve, což zachrání životy a minimalizuje zranění.
 - **Přesné přidělování zdrojů**: Vyhodnocením závažnosti nehody v reálném čase systém zajistí vhodné nasazení zdravotnického, hasičského nebo policejního personálu a zabrání tak plýtvání zdroji.
 - **Snížení počtu lidských chyb**: Automatizace procesu detekce a klasifikace odstraňuje závislost na někdy panických nebo nejasných hlášeních očitých svědků.
-
----
-
-## Struktura projektu
-
-- 
 
 ---
 
