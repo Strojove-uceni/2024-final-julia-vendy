@@ -1,0 +1,7 @@
+streamlit==1.24.1
+ultralytics==8.0.50
+opencv-python==4.7.0.72
+Pillow==9.5.0
+numpy==1.25.0
+tinydb==4.7.0
+python-dotenv==1.0.0
