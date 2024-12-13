@@ -1,8 +1,6 @@
 # Detekce nehod a klasifikace závažnosti pomocí YOLOv8
 
 ## Table of Contents
-- [Detekce nehod a klasifikace závažnosti pomocí YOLOv8](#detekce-nehod-a-klasifikace-závažnosti-pomocí-yolov8)
-  - [Table of Contents](#table-of-contents)
   - [Motivace](#motivace)
   - [Struktura projektu](#struktura-projektu)
   - [Demo Aplikace](#demo-aplikace)
